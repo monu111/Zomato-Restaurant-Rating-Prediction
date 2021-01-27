@@ -4,7 +4,7 @@ In this project i performed exploratory data analysis on given dataset. And crea
  
 
 
-## download the datset from [here](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+## download the dataset from [here](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
 
 **Main Objective:**
 
