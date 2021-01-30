@@ -1,18 +1,20 @@
 # Zomato-Restaurant-Rating-Prediction
 In this project i performed exploratory data analysis on given dataset. And created a model that can predict the rating of the restaurant.
 
- 
+ ![Logo](https://user-images.githubusercontent.com/29980448/106356015-2f633200-6322-11eb-9e31-a325549bb76a.png)
+
 
 
 ## download the dataset from [here](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+
 
 **Main Objective:**
 
 The main agenda of this project is:
 
->> Perform extensive **Exploratory Data Analysis(EDA)** on the Zomato Dataset.
+- Perform extensive **Exploratory Data Analysis(EDA)** on the Zomato Dataset.
 
->>Build an appropriate **Machine Learning Model** that will help various Zomato Restaurants to predict their respective Ratings based on certain features
+- Build an appropriate **Machine Learning Model** that will help various Zomato Restaurants to predict their respective Ratings based on certain features.
 
 
 ## Feature description :
@@ -52,7 +54,7 @@ The main agenda of this project is:
 17. **listed_in**(**city**) contains the neighborhood in which the restaurant is listed
 
 
-## 6. Conclusion :
+##  Conclusion :
 
 - From the analysis, __'Onesta'__, __'Empire Restaurant'__  & __'KFC'__ are the most famous restaurants in bangalore.
 - Most Restaurants offer options for online order and delivery.
